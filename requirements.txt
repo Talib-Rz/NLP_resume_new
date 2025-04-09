@@ -1,0 +1,9 @@
+streamlit 
+PyMuPDF 
+nltk 
+sentence-transformers 
+faiss-cpu 
+requests 
+scikit-learn 
+python-dotenv
+langchain-groq
