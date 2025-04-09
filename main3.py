@@ -11,7 +11,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 
-GROQ_API_KEY="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"
+# Creat a .env file and write your GROQ_API_KEY=".........sk_V................w...."
 
 # Setup
 nltk.download('stopwords')
